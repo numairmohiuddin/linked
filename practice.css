@@ -18,11 +18,16 @@ nav {
 a {
     text-decoration: none;
 }
-)
+
+.info--para {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 p {
     font-family: 'Alegreya Sans SC', sans-serif;
     font-size: 16px;
     text-align: center;
+    text-transform: uppercase;
 }
 li {
     list-style-type: none;
